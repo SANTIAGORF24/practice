@@ -4,4 +4,5 @@
 
 .hi {
     color: red;
+    text-rendering: auto;
 }
